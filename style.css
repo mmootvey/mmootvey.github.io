@@ -1,0 +1,36 @@
+body{
+    background: #0096d9;
+    color: #ffffff;
+    font-family: Arial;
+}
+
+img{
+    width: 600px;
+    border-radius: 20px;    
+} 
+
+p {
+    width: 500px;
+    font-size: 18px;
+}
+
+a{
+    background: #00ff80;
+    padding: 8px 30px;
+    border-radius: 5px;
+    color:  azure;
+    text-decoration: none;
+}
+
+
+.menu-link {
+    background: none;
+    transition: 1s;
+    border-radius: 0;
+    
+}
+
+.menu-link:hover {
+    background: #00ff80;
+}
+
